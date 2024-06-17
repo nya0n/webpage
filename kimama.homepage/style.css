@@ -1,0 +1,55 @@
+header{
+    background-image: linear-gradient(to top, rgba(150, 149, 149, 0.8), rgba(173, 171, 171, 0.2)), url(images/sea_image.jpeg); 
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+#sns-links{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.2)), url(images/skyblue2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#icon{
+    color:white;
+    font-size: x-large;
+}
+
+
+
+#menu header{
+    color: rgb(61, 61, 61);
+    font: size 200px;
+}
+
+#mail{
+    margin: 50px;
+}
+
+#form{
+    margin: 50px;
+}
+
+#reservation{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
+
+.onlineshop{
+    margin: 50px;
+}
+
+#price{
+    margin-top: 100px;
+}
+
+#kimama{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.2)), url(images/skyblue2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
